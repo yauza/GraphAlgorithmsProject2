@@ -4,6 +4,8 @@
 
 ### C++ ###
 # Prerequisites
+.idea
+out
 *.d
 
 # Compiled Object files
